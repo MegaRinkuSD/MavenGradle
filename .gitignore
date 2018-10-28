@@ -1,0 +1,9 @@
+#Bin
+
+*.class
+
+#Package
+
+*.jar 
+
+#Folders

@@ -7,3 +7,8 @@
 *.jar 
 
 #Folders
+
+Maven/myproject/.settings
+Maven/myproject2/.settings
+Maven/myproject/target
+Maven/myproject2/target
